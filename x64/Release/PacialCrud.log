@@ -1,0 +1,9 @@
+﻿PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl modificar_marca(void)" (?modificar_marca@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl eliminar_marca(void)" (?eliminar_marca@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl eliminar_producto(void)" (?eliminar_producto@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl leer_marca(void)" (?leer_marca@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl crear_marca(void)" (?crear_marca@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl leer_producto(void)" (?leer_producto@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl crear_producto(void)" (?crear_producto@@YAXXZ) sin resolver
+PacialCrud.obj : error LNK2001: símbolo externo "void __cdecl modificar_producto(void)" (?modificar_producto@@YAXXZ) sin resolver
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\PacialCrud\x64\Release\PacialCrud.exe : fatal error LNK1120: 8 externos sin resolver
